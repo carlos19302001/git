@@ -1,0 +1,22 @@
+git config --global user.name "Carlos"
+
+
+git config --global user.name
+
+
+git config --global user.email "al22010626@gmail.com"
+
+
+git config --global user.email
+
+
+
+
+ls -al ~/.ssh
+
+
+ ssh-keygen -t rsa
+
+
+ssh-keygen -t ed25519 -C "al222010626@gmail.com"
+
